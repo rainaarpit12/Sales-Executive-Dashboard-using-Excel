@@ -42,11 +42,7 @@ The dashboard provides a clear view of regional and individual sales performance
 
 ---
 
-## 🖼️ Dashboard Preview
-Below is a snapshot of the dashboard interface:
 
-![Excel Dashboard Screenshot](/assets/dashboard_screenshot.png)  
-*(Replace `/assets/dashboard_screenshot.png` with your actual screenshot path)*
 
 ---
 
